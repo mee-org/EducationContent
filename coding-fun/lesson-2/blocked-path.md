@@ -15,10 +15,7 @@ Use the Agent to **destroy the tree trunk** that is in the way by using ``||agen
 ```ghost
 player.onChat("path", function () {
     for (let index = 0; index < 4; index++) {
-        agent.turn(LEFT_TURN)
-        agent.move(FORWARD, 1)
-        agent.destroy(FORWARD)
-        agent.collectAll()
+
     }
 })
 ``` 
