@@ -9,7 +9,7 @@
 # Program the Agent to move along the turtle tracks & destroy obstacles!
 
 ## Step 1
-Use the Agent to **destroy the tree trunk** that is in the way by using ``||agent: agent destroy||`` & ``||agent:agent collect all||``blocks. Try using a ``||loops:repeat||`` block to make the code more efficient. When done, press the **Play** button to compile the code. Don't forget to run your code in Minecraft. 
+使用代理来**摧毁挡路的树干**，通过使用 ``||agent: agent destroy||`` 和 ``||agent:agent collect all||`` 代码块。尝试使用 ``||loops:repeat||`` 代码块使代码更高效。完成后，别忘了在Minecraft中按下**Play**按钮来运行你的代码。
 
 
 ```ghost
