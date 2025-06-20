@@ -14,6 +14,7 @@
 player.onChat("tracks", function () {
     agent.move(FORWARD, 1)
     agent.turn(LEFT_TURN)
+    agent.place(LEFT_TURN)
 })
 for (let index = 0; index < 4; index++) {
     	
