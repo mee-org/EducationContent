@@ -12,15 +12,10 @@ Move the Agent along the turtle tracks by using an ``||agent: agent move forward
 Try using a ``||loops:repeat||`` block to make the code more efficient.
 
 ## Step 2
-When done, press the **Play** button to compile the code. Don't forget to run your code in Minecraft. 
+aaa When done, press the **Play** button to compile the code. Don't forget to run your code in Minecraft. 
 
 ```blocks
 player.onChat("run", function () {
-    agent.move(FORWARD, 1)
-    agent.turn(LEFT_TURN)
 })
-for (let index = 0; index < 4; index++) {
-    	
- }
 ``` 
 
